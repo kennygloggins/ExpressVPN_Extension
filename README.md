@@ -1,3 +1,4 @@
-# Demo Extension
+# ExpressVPN Extension for ExpressVPN CLI
 
-<img aligh="center" src="http://i.imgur.com/NFFR1tm.png">
+So far this extension just has the limited features of connecting and disconnecting
+from the default connection for ExpressVPN.
